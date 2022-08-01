@@ -1,2 +1,2 @@
-# Next-Blogger-App
+# Next.js Blogger App
 Blogger app to learn Next.js
